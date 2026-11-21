@@ -200,6 +200,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Baldur's Gate 3 · Updated 2026-11-20 · Shared under the MIT License*
+*Baldur's Gate 3 · Updated 2026-11-21 · Shared under the MIT License*
 
-<!-- updated 2026-11-20 -->
+<!-- updated 2026-11-21 -->
